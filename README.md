@@ -1,0 +1,6 @@
+# drawing-bed
+自用
+// 格式
+{filename}-{Y}-{M}-{D}{H}:{m}:{s}.{suffix}
+// 输出
+aaa-2021-9-1718:04:33.png
